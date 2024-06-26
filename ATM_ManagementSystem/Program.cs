@@ -70,6 +70,11 @@ namespace atm
                         Console.WriteLine("Thank you for using the ATM. Goodbye!");
                         Console.WriteLine("hello bhai");
                         Console.WriteLine("hello payal maam");
+                        Console.WriteLine("hello payal maam");
+                        Console.WriteLine("hello payal maam");
+                        Console.WriteLine("hello payal maam");
+                        Console.WriteLine("hello payal maam");
+                        Console.WriteLine("hello payal maam");
 
                         break;
                     default:
