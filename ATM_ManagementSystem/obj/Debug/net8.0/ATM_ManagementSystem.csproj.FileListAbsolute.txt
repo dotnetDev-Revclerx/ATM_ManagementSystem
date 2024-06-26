@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\ATM_ManagementSystem\ATM_ManagementSystem\bin\Debug\net8.0\ATM_ManagementSystem.exe
+C:\Users\Dell\source\repos\ATM_ManagementSystem\ATM_ManagementSystem\bin\Debug\net8.0\ATM_ManagementSystem.deps.json
+C:\Users\Dell\source\repos\ATM_ManagementSystem\ATM_ManagementSystem\bin\Debug\net8.0\ATM_ManagementSystem.runtimeconfig.json
+C:\Users\Dell\source\repos\ATM_ManagementSystem\ATM_ManagementSystem\bin\Debug\net8.0\ATM_ManagementSystem.dll
+C:\Users\Dell\source\repos\ATM_ManagementSystem\ATM_ManagementSystem\bin\Debug\net8.0\ATM_ManagementSystem.pdb
+C:\Users\Dell\source\repos\ATM_ManagementSystem\ATM_ManagementSystem\obj\Debug\net8.0\ATM_ManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ATM_ManagementSystem\ATM_ManagementSystem\obj\Debug\net8.0\ATM_ManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ATM_ManagementSystem\ATM_ManagementSystem\obj\Debug\net8.0\ATM_ManagementSystem.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ATM_ManagementSystem\ATM_ManagementSystem\obj\Debug\net8.0\ATM_ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ATM_ManagementSystem\ATM_ManagementSystem\obj\Debug\net8.0\ATM_ManagementSystem.dll
+C:\Users\Dell\source\repos\ATM_ManagementSystem\ATM_ManagementSystem\obj\Debug\net8.0\refint\ATM_ManagementSystem.dll
+C:\Users\Dell\source\repos\ATM_ManagementSystem\ATM_ManagementSystem\obj\Debug\net8.0\ATM_ManagementSystem.pdb
+C:\Users\Dell\source\repos\ATM_ManagementSystem\ATM_ManagementSystem\obj\Debug\net8.0\ATM_ManagementSystem.genruntimeconfig.cache
+C:\Users\Dell\source\repos\ATM_ManagementSystem\ATM_ManagementSystem\obj\Debug\net8.0\ref\ATM_ManagementSystem.dll
