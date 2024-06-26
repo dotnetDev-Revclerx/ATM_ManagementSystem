@@ -68,6 +68,9 @@ namespace atm
                     case 3:
                         continueTransaction = false;
                         Console.WriteLine("Thank you for using the ATM. Goodbye!");
+                        Console.WriteLine("hello bhai");
+                        Console.WriteLine("hello payal maam");
+
                         break;
                     default:
                         Console.WriteLine("Invalid choice. Please try again.");
