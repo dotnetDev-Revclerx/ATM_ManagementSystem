@@ -49,6 +49,7 @@ namespace atm
             while (continueTransaction)
             {
                 Console.WriteLine($"\nWelcome, {currentUser}!");
+                Console.WriteLine('Hello World');
                 Console.WriteLine("Choose an option:");
                 Console.WriteLine("1. Withdraw");
                 Console.WriteLine("2. Deposit");
